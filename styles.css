@@ -1,0 +1,47 @@
+body {
+    font-family: 'Red Rose', cursive;
+    background: rgb(207, 207, 207);
+}
+h2, p, .readme-wrapper {
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: rgb(52, 224, 216);
+}
+a:hover {
+    font-weight: bold;
+    color: rgb(205, 238, 127);
+    cursor: pointer;
+}
+span {
+    color: rgb(106, 107, 13);
+    font-weight: bolder;
+}
+.boxes {
+    margin: 2vw;
+    padding: 2vw;
+    border: 1px solid rgb(72, 114, 192);
+    border-radius: 4px;
+    width: 30em
+}
+#box1 {
+    background-color: rgb(235, 125, 235);
+}
+#box2 {
+    background-color: rgb(201, 109, 201);
+}
+#box3 {
+    background-color: rgb(151, 83, 151);
+}
+#box4 {
+    background-color: rgb(102, 56, 102);
+}
+
+.shared {
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    background: rgb(205, 238, 127);
+    position: absolute;
+}
