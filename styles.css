@@ -55,3 +55,18 @@ h1 {
 .additional {
     color: darkred;
 }
+#show1 {
+    color: rgb(1, 1, 80);
+}
+#show2 {
+    color: rgb(1, 1, 124);
+}
+#show3 {
+    color: rgb(1, 1, 168);
+}
+#show4 {
+    color: rgb(1, 1, 200);
+}
+#show5 {
+    color: rgb(1, 1, 250);
+}
