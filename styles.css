@@ -45,3 +45,7 @@ span {
     background: rgb(205, 238, 127);
     position: absolute;
 }
+
+h1 {
+    color: darkslategrey;
+}
