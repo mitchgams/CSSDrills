@@ -49,3 +49,9 @@ span {
 h1 {
     color: darkslategrey;
 }
+.original {
+    color: navy;
+}
+.additional {
+    color: darkred;
+}
