@@ -79,3 +79,6 @@ ul {
 #wars {
     color: rgb(1, 180, 1);
 }
+.list-wrapper {
+    border: 2px solid black;
+}
